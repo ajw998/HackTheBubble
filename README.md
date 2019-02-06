@@ -8,6 +8,8 @@ Members: Andrew Wong, Ewan Gilligan, Alan Chodyniecki, Rebecca Grattage
 
 Donate a pizza anonymously to a CS student!
 
+![Screenshot](./screenshot.png)
+
 ## Installation 
 
 Simply run ``make`` and ``node index.js``. Navigate to ``localhost:8000`` in your browser to see the result. 
