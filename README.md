@@ -1,6 +1,8 @@
 # PizzaItForward
 
-University of St Andrews HacktheBubble submission by Team BeachFrontEnd
+University of St Andrews HacktheBubble submission by Team BeachFrontEnd.
+
+Completion Time: 12 hours
 
 Members: Andrew Wong, Ewan Gilligan, Alan Chodyniecki, Rebecca Grattage
 
